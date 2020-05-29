@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "CommonJS",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "lib": ["ES6"],
+    "strictNullChecks": true,
+    "strict": true
+
+  },
+  "include": ["./src"]
+}

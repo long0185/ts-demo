@@ -1,0 +1,19 @@
+{
+    "type": "mysql",
+    "host": "bdm721903167.my3w.com",
+    "port": 3306,
+    "username": "bdm721903167",
+    "password": "Long1988713",
+    "database": "bdm721903167_db",
+    "synchronize": true,
+    "logging": false,
+    "entities": [
+        "src/server/entity/*.ts"
+    ],
+    "migrations": [
+        "src/server/migration/*.ts"
+    ],
+    "subscribers": [
+        "src/server/subscriber/*.ts"
+    ]
+}
