@@ -4459,8 +4459,8 @@ typedarray@^0.0.6:
 
 typeorm@^0.2.24:
   version "0.2.25"
-  resolved "https://registry.npm.taobao.org/typeorm/download/typeorm-0.2.25.tgz?cache=0&sync_timestamp=1589908224966&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftypeorm%2Fdownload%2Ftypeorm-0.2.25.tgz#1a33513b375b78cc7740d2405202208b918d7dde"
-  integrity sha1-GjNROzdbeMx3QNJAUgIgi5GNfd4=
+  resolved "https://registry.yarnpkg.com/typeorm/-/typeorm-0.2.25.tgz#1a33513b375b78cc7740d2405202208b918d7dde"
+  integrity sha512-yzQ995fyDy5wolSLK9cmjUNcmQdixaeEm2TnXB5HN++uKbs9TiR6Y7eYAHpDlAE8s9J1uniDBgytecCZVFergQ==
   dependencies:
     app-root-path "^3.0.0"
     buffer "^5.1.0"
